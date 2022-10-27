@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/30TageBan?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2F30TageBan"/></a>
   <a href="https://github.com/30TageBan?tab=followers">
@@ -44,4 +44,4 @@
 
 <p align="center">
     <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=30TageBan&hide_border=true&theme=dark" />
-    <img height="124px" src="https://github-readme-stats.vercel.app/api?username=30TageBan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="124px" src="https://github-readme-stats.vercel.app/api?username=30TageBan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />-->
